@@ -124,7 +124,7 @@ void handleMessage(AdafruitIO_Data *data) {
     digitalWrite(redLedPin, LOW);
   }
   else {
-    lastResultText = "???";
+    lastResultText = "Khong xac dinh";
   }
 
   resultShownAt = millis();
