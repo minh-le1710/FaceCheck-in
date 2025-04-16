@@ -49,7 +49,6 @@ Open Serial Monitor at 115200 bps to verify (if can't connect):
 2. Observe:
 OLED shows current time, weather, and “Cham cong Thanh cong” or “Cham cong That Bai”
 Green/red LED and buzzer feedback
-## Demo
 
 ![Adafruit Dashboard](docs/dashboard_adafruit.png)
 
