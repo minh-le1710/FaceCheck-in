@@ -32,7 +32,7 @@ Edit the top of esp8266.ino and set your credentials:
 #define WIFI_PASS      "your-password"
 #define IO_USERNAME    "your-adafruit-username"
 #define IO_KEY         "your-adafruit-key"
-#define FEED_KEY       "chamcong123"
+#define FEED_KEY       "your-feed-key"
 #define WEATHER_APIKEY "your-openweathermap-key"
 ```
 ## Upload
